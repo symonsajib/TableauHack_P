@@ -14,7 +14,7 @@ https://www.udemy.com/share/1013DoBkYYdF9RQQ==/
 
 PREREQUISITEs? : 
 
-Two tableau courses by Kirill Eremenko is a great resourse for learning tableau. 
+Basic know how of Tableau concepts. 
 
 
 FOR WHOM? : 
