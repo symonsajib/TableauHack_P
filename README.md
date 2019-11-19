@@ -3,7 +3,7 @@
 
 WHAT IT IS:
 
-TableauHack is a reference guide to use in conjuction with two tableau courses by Kirill Eremenko. It's arrenged chapter by chapter in accordance with the video courses. 
+TableauHack is repo containing 2 notebooks (Tableau_Notebook1 & Tableau_Notebook1), which are reference guide to use in conjuction with two tableau courses by Kirill Eremenko. It's arrenged chapter by chapter in accordance with the video courses, so are the concepts. 
 1. Tableau_Notebook1: for Tableau 10 A-Z: Hands-On Tableau Training For Data Science!    https://www.udemy.com/share/101WbsBkYYdF9RQQ==/
 2. Tableau_Notebook2: for Tableau 10 Advanced Training: Master Tableau in Data Science   https://www.udemy.com/share/1013DoBkYYdF9RQQ==/
 
