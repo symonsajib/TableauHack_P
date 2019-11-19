@@ -19,8 +19,8 @@ Basic know how of Tableau concepts.
 
 FOR WHOM? : 
 
-1. It's mainly for people who did kirl's tableau courses and wants to brush up their old tableau skills without needing them to go back to the video course.
-2. For newlearners, After getting the basics right from the courses, just know that there is some written notes here which can be useful later. But remeber, TableauHack is definitely not a standalone guide to learn tableau. 
+1. It's mainly for people who did Kiril's tableau courses and wants to brush up their overall tableau skills without needing them to go back to the video course.
+2. For new learners, Just know that there is some written notes here which can be useful later after you learn the initial basics of tableau. But remeber, TableauHack is definitely not a standalone guide to learn tableau. 
 3. While working on a project in tableau, it's fairly common to get stuck on some specific concepts or forget how to use them. TableauHack can be a great resource for this situation too. 
 
 
