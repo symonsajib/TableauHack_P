@@ -25,7 +25,7 @@ WHY? :
 I learned the tableau from fairly a lot of source. But the courses from Kiril Erimenko was a great start. But often times while working with tableau I found myself in the situation where I lost memory of some specific concept or how to apply them on my dashboards. So I need to go back to  video courses which can be little time consiming  and also not so convinient. I felt if there is a written note, it would be much easier to review. AND THUS MY FRIEND! TABLEAUHACK CAME TO SEE THE LIGHT !! 
 
 
-### Tableau_Notebook2 is still under construction ###
+### Tableau_Notebook2 is still under construction!!! ###
 
 
 "There is a magic in graphs. The proﬁle of a curve reveals in a ﬂash a whole situation — the life history of an epidemic, a panic, or an era of prosperity. The curve informs the mind, awakens the imagination, convinces."
