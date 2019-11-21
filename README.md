@@ -31,6 +31,7 @@ I learned the tableau from a lot of source. But the courses from Kiril Erimenko 
 
 ### Tableau_Notebook2 is still under construction !!! ###
 
+------------------------------------------------------------------------------------------------------
 
 "There is a magic in graphs. The proﬁle of a curve reveals in a ﬂash a whole situation — the life history of an epidemic, a panic, or an era of prosperity. The curve informs the mind, awakens the imagination, convinces."
 ―Henry D. Hubbard
